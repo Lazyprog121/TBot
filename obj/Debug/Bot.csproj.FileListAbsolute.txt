@@ -1,0 +1,12 @@
+D:\C#\Семестр 2\API\Bot\bin\Debug\Bot.exe.config
+D:\C#\Семестр 2\API\Bot\bin\Debug\Bot.exe
+D:\C#\Семестр 2\API\Bot\bin\Debug\Bot.pdb
+D:\C#\Семестр 2\API\Bot\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Семестр 2\API\Bot\bin\Debug\Telegram.Bot.dll
+D:\C#\Семестр 2\API\Bot\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Семестр 2\API\Bot\bin\Debug\Telegram.Bot.xml
+D:\C#\Семестр 2\API\Bot\obj\Debug\Bot.csprojAssemblyReference.cache
+D:\C#\Семестр 2\API\Bot\obj\Debug\Bot.csproj.CopyComplete
+D:\C#\Семестр 2\API\Bot\obj\Debug\Bot.exe
+D:\C#\Семестр 2\API\Bot\obj\Debug\Bot.pdb
+D:\C#\Семестр 2\API\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
